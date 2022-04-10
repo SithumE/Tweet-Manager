@@ -1,13 +1,3 @@
-SECTION ONE
-
-Student Name: Sithum Egodawatte
-Student ID: 1171118
-Assignment Name: Dynamic Data Structures (Linked Lists)
-Last Revision: March 31, 2022 
-Course: CIS*2500 
-
-SECTION TWO
-
 To compile/run program:
 
 1. Download all the source files (.c, .h and makefile) to a folder
@@ -15,7 +5,6 @@ To compile/run program:
 3. Run the following command: make (this creates an executable called tweetManager)
 4. To execute the program, type ./tweetManager
 
-SECTION THREE
 
 Completed Components: 
 
@@ -31,16 +20,6 @@ Completed Components:
 10. helper.c: This is a helper class which includes all utility functions used throughout the program
 11. headerA3.h: This is a header file containing all the prototypes and libraries used throughout the program
 
-SECTION FOUR
-
-There are no missing features, inefficiencies or edge cases that were not figured out
-
-SECTION FIVE
-
-Future Improvements:
-
-1. Display the menu options/user prompts/user inputs in three different colours to enhance user's experience 
-2. Create a src, include, and bin folder to seperate .c files (src), .h file (include) and executable (bin)
 
 IMPORTANT NOTICES
 
